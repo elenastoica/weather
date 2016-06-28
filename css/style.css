@@ -1,0 +1,80 @@
+html {
+  height: auto;
+  width: auto;
+}
+
+body {
+  margin-bottom: 0px;
+}
+
+header {
+    text-align: center;
+    background-color: white;
+    
+}
+
+header .container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-image: url("http://www.graphicsfuel.com/wp-content/uploads/2011/06/clouds-texture05-preview.jpg") ;
+    background-size: cover;
+    
+}
+
+.navbar {
+  text-transform: uppercase;
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;;
+  font-weight: 700;
+  color:black;
+  background-color: white;
+  font-size: 40px;
+}
+
+.location {
+  font-weight: 700;
+  font-size: 25px;
+  color: black;
+ font-family: 'Gloria Hallelujah', cursive;
+  line-height: 110px;
+}
+
+
+
+.temp {
+  color: black;
+  font-size: 40px;
+  font-family: 'Gloria Hallelujah', cursive;
+  
+}
+
+
+
+.change {
+  font-size: 25px;
+  line-height: 45px;
+  text-transform: uppercase;
+}
+
+.btn-outline {
+    margin-top: 15px;
+    border: solid 2px #fff;
+    font-size: 30px;
+    color: black;
+    background: 0 0;
+    transition: all .3s ease-in-out;
+}
+
+
+footer {
+    color: black;
+    font-size:15px;
+    padding: 20px 0;
+    background: rgba(0, 0, 0, 0.2);
+    margin-top: 180px;
+    margin-left:48px;
+    margin-right:48px;
+
+}
+
+
